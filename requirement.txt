@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+torch
+transformers
+tokenizers
+datasets
+pre-commit
